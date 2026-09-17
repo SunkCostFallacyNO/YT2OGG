@@ -17,7 +17,7 @@ I used Winget to install these
 winget install yt-dlp.yt-dlp
 winget install Gyan.FFmpeg
 ```
-if there's issues with the powershell execution not being permitted
+if there's issues with Powershell execution not being permitted
 ```
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
