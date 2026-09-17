@@ -65,5 +65,8 @@ Paste in your YouTube link or playlist link
 q or empty line to exit
 ```
 
+# Privacy Statement
+As I am an absolute monkey when it comes coding. I collect 0 info about you. I would not even know how to.
 
+The entire code is a singular file so look through it while you're having your coffee if you're that paranoid.
 
