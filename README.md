@@ -56,7 +56,7 @@ sudo apk add yt-dlp ffmpeg
 sudo xbps-install -S yt-dlp ffmpeg
 ```
 
-# USAGE
+# Usage
 
 ```
 chmod +x ./yt2ogg.sh
