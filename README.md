@@ -12,7 +12,7 @@ yt-dlp & ffmpeg
 
 # WINDOWS
 
-I used Winget to install these
+Winget
 ```
 winget install yt-dlp.yt-dlp
 winget install Gyan.FFmpeg
