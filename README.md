@@ -12,15 +12,11 @@ yt-dlp & ffmpeg
 
 # WINDOWS
 
-Winget
-```
-winget install yt-dlp.yt-dlp
-winget install Gyan.FFmpeg
-```
+- Winget `winget install yt-dlp.yt-dlp; winget install Gyan.FFmpeg`
+  
 if there's issues with Powershell execution not being permitted
-```
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-```
+`Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+
 # Usage
 ```
 .\yt2ogg.ps1 (-OutDir [Path])
@@ -31,31 +27,14 @@ q or empty line to exit
 Prerequisites:
 yt-dlp & ffmpeg
 
-# Arch Linux
-```
-sudo pacman -S yt-dlp ffmpeg
-```
-# Ubuntu/Debian
-```
-sudo apt install yt-dlp ffmpeg
-```
-# Fedora
-```
-sudo dnf install yt-dlp ffmpeg
-```
-# OpenSUSE
-```
-sudo zypper install yt-dlp ffmpeg
-```
-# Alpine
-```
-sudo apk add yt-dlp ffmpeg
-```
-# Void Linux
-```
-sudo xbps-install -S yt-dlp ffmpeg
-```
+- Arch Linux `sudo pacman -S yt-dlp ffmpeg`
+- Ubuntu/Debian `sudo apt install yt-dlp ffmpeg`
+- Fedora `sudo dnf install yt-dlp ffmpeg`
+- OpenSUSE `sudo zypper install yt-dlp ffmpeg`
+- Alpine `sudo apk add yt-dlp ffmpeg`
+- Void Linux `sudo xbps-install -S yt-dlp ffmpeg`
 
+  
 # Usage
 
 ```
@@ -65,8 +44,5 @@ Paste in your YouTube link or playlist link
 q or empty line to exit
 ```
 
-# Privacy Statement
-As I am an absolute monkey when it comes coding. I collect 0 info about you. I would not even know how to.
 
-The entire code is a singular file so look through it while you're having your coffee if you're that paranoid.
 
